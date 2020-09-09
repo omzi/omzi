@@ -1,8 +1,5 @@
-<p align="center">
-### Hi there👋, I'm Omzi
-<br/>
-`` A passionate FullStack JavaScript Developer from Nigeria with an eye for aesthetically-pleasing UI designs & a knack for bringing them to life ``
-</p>
+### Hi there👋, I'm Omzi</h1>	<p align="center">
+``A passionate FullStack JavaScript Developer from Nigeria with an eye for aesthetically-pleasing UI designs & a knack for bringing them to life``
 
  `` - 🔭 I’m currently working on the `` **attendance app of my university** `` & a `` **contacts manager web app**
 
