@@ -1,32 +1,15 @@
-### Hi there 👋
+### Hi there👋, I'm Omzi</h1>
+``A passionate FullStack JavaScript Developer from Nigeria with an eye for aesthetically-pleasing UI designs & a knack for bringing them to life``
 
-<!--
-**omzi/omzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ `` - 🔭 I’m currently working on the `` **attendance app of my university** `` & a `` **contacts manager web app**
 
-Here are some ideas to get you started:
+ `` - 🌱 I’m currently learning `` **React**  `` & mastering  `` **NodeJS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ `` - 💬 Ask me about  `` **FrontEnd Development `` & `` WordPress**.  `` And of course, `` **ANIME😉!**
 
-<h1>Hi there👋, I'm Omzi</h1>
-<h4>``A passionate FullStack JavaScript Developer from Nigeria with an eye for aesthetically-pleasing UI designs & a knack for bringing them to life``</h4>
+ `` - 📫 How to reach me `` **obiohaomezibe@gmail.com**
 
-- 🔭 I’m currently working on **the attendance app of my university & a contacts manager web app**
-
-- 🌱 I’m currently learning **React & mastering NodeJS**
-
-- 💬 Ask me about **FrontEnd Development & WordPress. And of course, ANIME😉!**
-
-- 📫 How to reach me **obiohaomezibe@gmail.com**
-
-- ⚡ Fun fact: **I LOVE dogs🐶**
+ `` - ⚡ Fun fact: ``**I LOVE dogs🐶**
 
 <br/>
 
@@ -36,9 +19,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omzi&layout=compact" alt="omzi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/?username=omzi&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="omzi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=omzi&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="omzi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omzi&layout=compact" alt="omzi" /></p>
 
 <br/>
 
