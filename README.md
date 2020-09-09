@@ -1,15 +1,15 @@
 ### Hi there👋, I'm Omzi</h1>
 ``A passionate FullStack JavaScript Developer from Nigeria with an eye for aesthetically-pleasing UI designs & a knack for bringing them to life``
 
- `` - 🔭 I’m currently working on the `` *attendance app of my university* `` & a `` *contacts manager web app*
+ `` - 🔭 I’m currently working on the `` **attendance app of my university** `` & a `` **contacts manager web app**
 
- `` - 🌱 I’m currently learning `` *React*  `` & mastering  `` *NodeJS*
+ `` - 🌱 I’m currently learning `` **React**  `` & mastering  `` **NodeJS**
 
- `` - 💬 Ask me about  `` *FrontEnd Development* `` & `` *WordPress*.  `` And of course, `` *ANIME*😉!
+ `` - 💬 Ask me about  `` **FrontEnd Development** `` & `` **WordPress**.  `` And of course, `` **ANIME**😉!
 
- `` - 📫 How to reach me `` *obiohaomezibe@gmail.com*
+ `` - 📫 How to reach me `` **obiohaomezibe@gmail.com**
 
- `` - ⚡ Fun fact: `` *I LOVE dogs*🐶
+ `` - ⚡ Fun fact: `` **I LOVE dogs**🐶
 
 <br/>
 
