@@ -7,7 +7,7 @@
 
  `` - 💬 Ask me about `` **FrontEnd Development** `` & `` **WordPress**.  `` And of course, `` **ANIME**😉!
 
- `` - 📫 How to reach me `` **obiohaomezibe@gmail.com**
+ `` - 📫 How to reach me :`` **obiohaomezibe@gmail.com** `` or `` **@o_obioha** `` on Twitter ``
 
  `` - ⚡ Fun fact: `` **I LOVE dogs**🐶
 
