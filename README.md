@@ -5,7 +5,7 @@
 
  `` - 🌱 I’m currently learning `` **React**  `` & mastering  `` **NodeJS**
 
- `` - 💬 Ask me about `` **FrontEnd Development** `` & `` **WordPress**.  `` And of course, `` **ANIME**😉!
+ `` - 💬 Ask me anything about `` **FrontEnd Development** `` & `` **WordPress**.  `` And of course, `` **ANIME**😉!
 
  `` - 📫 How to reach me :`` **obiohaomezibe@gmail.com** `` or `` **@o_obioha** `` on Twitter ``
 
