@@ -1,15 +1,15 @@
 ### Hi there👋, I'm Omzi</h1>
 ``A passionate FullStack JavaScript Developer from Nigeria with an eye for aesthetically-pleasing UI designs & a knack for bringing them to life``
 
- `` - 🔭 I’m currently working on the `` **attendance app of my university** `` & a `` **contacts manager web app**
+ `` - 🔭 I’m currently working on the `` *attendance app of my university* `` & a `` *contacts manager web app*
 
- `` - 🌱 I’m currently learning `` **React**  `` & mastering  `` **NodeJS**
+ `` - 🌱 I’m currently learning `` *React*  `` & mastering  `` *NodeJS*
 
- `` - 💬 Ask me about  `` **FrontEnd Development `` & `` WordPress**.  `` And of course, `` **ANIME😉!**
+ `` - 💬 Ask me about  `` *FrontEnd Development* `` & `` *WordPress*.  `` And of course, `` *ANIME*😉!
 
- `` - 📫 How to reach me `` **obiohaomezibe@gmail.com**
+ `` - 📫 How to reach me `` *obiohaomezibe@gmail.com*
 
- `` - ⚡ Fun fact: ``**I LOVE dogs🐶**
+ `` - ⚡ Fun fact: `` *I LOVE dogs*🐶
 
 <br/>
 
@@ -19,9 +19,9 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/?username=omzi&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="omzi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=omzi&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="omzi" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omzi&layout=compact" alt="omzi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omzi&layout=compact" alt="omzi" /></p>
 
 <br/>
 
